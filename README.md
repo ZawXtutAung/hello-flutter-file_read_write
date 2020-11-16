@@ -17,6 +17,14 @@ samples, guidance on mobile development, and a full API reference.
 
 - [pub.dev](https://pub.dev/packages/path_provider)
 
+```yaml
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+  path_provider: ^1.6.24
+```
+
 ```dart
  Future<File> getLocal() async {
     var directory = await getApplicationDocumentsDirectory();
