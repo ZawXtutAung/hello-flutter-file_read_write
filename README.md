@@ -17,6 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 - [pub.dev](https://pub.dev/packages/path_provider)
 
+## pubspec.yaml
+
 ```yaml
 dependencies:
   flutter:
